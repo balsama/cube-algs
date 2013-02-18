@@ -105,7 +105,7 @@ This alg is for a complete cube with one edge completely flipped. (Usually the
                          |___|___|___|___|/
 </code></pre>
 
-<pre>r2   B2   U2   l   U2   r1   U2   r   U2   F2   r   F2   l1   B2   r2</pr>
+<pre>r2   B2   U2   l   U2   r1   U2   r   U2   F2   r   F2   l1   B2   r2</pre>
 
 <h3>Edge Flip + Swap</h3>
 
@@ -130,3 +130,4 @@ the opposite side of the cube.
                          |___|___|___|___|/
 </code></pre>
 
+<pre>r2   U2   r2   (Uu)2   r2   u2</pre>
